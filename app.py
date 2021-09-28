@@ -8,3 +8,5 @@ print(cwd)
 ls = os.listdir()
 print(ls)
 
+def add(x,y): 
+    return x + y
